@@ -4,7 +4,7 @@
 
 ## I am a Student, Developer and a Learner!
 
--✨ Trying to experiment new things as long as my knowledge takes].
+-✨ Trying to experiment new things as long as my knowledge takes.
 
 
 -🎓 I am currently pursuing my Second year Bachelor of Computer Application(BCA).
