@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Khailas.R-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas-r-801093200/) [![Mail Badge](https://img.shields.io/badge/-Khailas303@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Khailas12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Khailas12)  
 <br>
 
-<a target="_blank"><img align="left" height="150" width="150" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="120" width="120" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/github.gif"></a>
 
 ## Languages and Tools💻
 
@@ -45,18 +45,20 @@
 <br />
 <br />
 
-
-
 <br >
 
 ## Github Stats
 
 [![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Khailas12&theme=react-dark&hide_border=true&area=true)
+
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/Khailas12/Khailas12/ffa29ffd4c08806224c8c7776783e19f83f04ff1/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-
+<br/>
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -69,20 +71,24 @@
 ![Lines of code](https://wakatime.com/badge/github/Khailas12/Python-Intermediate.svg)
 <br>
 <br/>
-
 <p align="center">
-<a target="_blank">
-  <img align="left" height="330px" width="500px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/8c0ef280-b802-407d-ae8a-d3379f02e830.svg" ><br>
-</a>
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/47a2a0d3-643c-4308-9446-7c5348fb124b.svg"/>
+  </a>
+  <a>
+    <img align="right" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/8c0ef280-b802-407d-ae8a-d3379f02e830.svg" />
+  </a>
+</p>
+
 <br>
 
-#### Coding Stats
+### Coding Stats
 
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka -->
 
 
 </details>
