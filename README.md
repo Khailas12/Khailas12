@@ -32,6 +32,8 @@
 
 <a href="https://sqlitebrowser.org/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/officel/80/000000/database.png"> </a>
 
+<a href="https://github.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629643172/github_2_njhe9n.svg"> </a>
+
 <a href="https://www.postman.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </a>
 
 <a href="https://dashboard.heroku.com/login" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> </a>
@@ -44,7 +46,7 @@
 
 <br >
 
-## Github Stats  <img height ="50px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/c_fit,h_72/v1629641470/github_dkfnz7.svg">
+## Github Stats
 
 [![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
