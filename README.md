@@ -7,7 +7,7 @@
 -✨ Trying to experiment new things as long as my knowledge takes.
 
 
--🎓 I am currently pursuing my Second Year in Bachelor of Computer Application(BCA).
+-🎓 I am in the second year and currently pursuing Bachelor of Computer Application(BCA).
 
 
 -⚡ Hobbies: Coding, Listening to Music, Watching Movies and TV Shows.
