@@ -56,9 +56,25 @@
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/Khailas12/Khailas12/ffa29ffd4c08806224c8c7776783e19f83f04ff1/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+
+
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Time Status: </strong>
+</summary>
+
+
+
+<!--START_SECTION:waka-->
+![Lines of code](https://wakatime.com/badge/github/Khailas12/Python-Intermediate.svg)
+<br>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Khailas12&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+<a target="_blank">
+  <img align="left" height="330px" width="500px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/8c0ef280-b802-407d-ae8a-d3379f02e830.svg" ><br>
+</a>
+
 
 #### Coding Stats
 
