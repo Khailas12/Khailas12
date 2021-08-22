@@ -1,12 +1,16 @@
 <h1 align="left">
   </a>𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     <p>
-        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" />
+        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="GIF" width="40px" />
     </p> 
   </a>
 </h1>
 
 <br>
+
+<a target="_blank">
+  <img align="right" height="210" width="210" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+</a>
 
 <h2 align="left">
     <b>I am a Student, Developer and a Learner!</b>
@@ -24,7 +28,7 @@
 <br>
 <br>
 
-## Reach me out📬 
+## Stay Connected🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khailas.R-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas-r-801093200/) [![Mail Badge](https://img.shields.io/badge/-Khailas303@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Khailas12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Khailas12)  
 <br>
