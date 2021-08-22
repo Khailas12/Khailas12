@@ -19,6 +19,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Khailas.R-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas-r-801093200/) [![Mail Badge](https://img.shields.io/badge/-Khailas303@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Khailas12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Khailas12)  
 <br>
 
+<a target="_blank"><img align="left" height="130" width="130" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/github.gif"></a>
+
 ## Languages and Tools💻
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
