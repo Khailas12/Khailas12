@@ -80,6 +80,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2cc4cbf5-cbf1-48cc-80f0-6d92a149a50c.svg"/>
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/4716dbbf-ff82-4aec-9ff4-52755c7f85f7.svg" />
+  </a>
+</p>
+
 <br>
 
 ### Coding Stats
