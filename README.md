@@ -74,7 +74,7 @@
 <a target="_blank">
   <img align="left" height="330px" width="500px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/8c0ef280-b802-407d-ae8a-d3379f02e830.svg" ><br>
 </a>
-
+<br>
 
 #### Coding Stats
 
