@@ -73,10 +73,10 @@
 <br/>
 <p align="center">
   <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/47a2a0d3-643c-4308-9446-7c5348fb124b.svg"/>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/f77f57d2-6ee7-4462-94cf-7d57a3a948c5.svg"/>
   </a>
   <a>
-    <img align="right" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/8c0ef280-b802-407d-ae8a-d3379f02e830.svg" />
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2c5a481b-8cf5-4389-b3bd-38f218878b93.svg" />
   </a>
 </p>
 
