@@ -44,7 +44,7 @@
 
 <br >
 
-## Github Stats  <img height ="30px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629641220/kisspng-github-software-repository-computer-icons-email-5ce6e863d14497.0178114215586366438572_kgshcb.png">
+## Github Stats  <img height ="50px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/c_fit,h_72/v1629641470/github_dkfnz7.svg">
 
 [![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
