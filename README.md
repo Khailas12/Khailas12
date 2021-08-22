@@ -1,4 +1,8 @@
-<h1 align="left">
+<a target="_blank">
+  <img align="right" height="210" width="210" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+</a>
+
+<h1 align="center">
   </a>𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     <p>
         I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="GIF" width="40px" />
@@ -8,9 +12,6 @@
 
 <br>
 
-<a target="_blank">
-  <img align="right" height="210" width="210" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-</a>
 
 <h2 align="left">
     <b>I am a Student, Developer and a Learner!</b>
