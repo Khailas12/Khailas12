@@ -22,7 +22,7 @@
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" height ="42px" src="https://raw.githubusercontent.com/ajmalmohad/ajmalmohad/f1825f2edb075ecccfe4824e8b8154c6728339b5/svgassets/flask.svg"> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629639614/SeekPng.com_flask-png_8753366_hgzd4p.png"> </a>
 
 <a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
 
