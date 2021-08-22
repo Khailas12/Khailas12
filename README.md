@@ -94,32 +94,12 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://wakatime.com/badge/github/Khailas12/Python-Intermediate.svg)
-<br>
-<br/>
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/f77f57d2-6ee7-4462-94cf-7d57a3a948c5.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2c5a481b-8cf5-4389-b3bd-38f218878b93.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2cc4cbf5-cbf1-48cc-80f0-6d92a149a50c.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/4716dbbf-ff82-4aec-9ff4-52755c7f85f7.svg" />
-  </a>
-</p>
-
-<br>
-
-### Coding Stats
-
-<!--START_SECTION:waka-->
+```text
+Markdown   2 hrs 51 mins   ██████████████████░░░░░░░   72.09 % 
+Python     41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 % 
+YAML       22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+```
 <!--END_SECTION:waka-->
 
 
