@@ -11,9 +11,9 @@
 
 
 -⚡ Hobbies: Coding, Listening to Music, Watching Movies and TV Shows.
-
 <br>
-📬 Reach me out!
+
+## Reach me out📬 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khailas.R-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas-r-801093200/) [![Mail Badge](https://img.shields.io/badge/-Khailas303@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Khailas12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Khailas12)  
 <br>
