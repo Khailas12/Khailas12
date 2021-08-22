@@ -30,7 +30,9 @@
 <br>
 
 <h2 align="left">
-    <b>Stay Connected🌎</b>
+  <b>Stay Connected</b>
+  <a target="_blank">
+    <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h2>
 
