@@ -93,7 +93,7 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/github/Khailas12/Python-Algorithm.svg)](https://wakatime.com/badge/github/Khailas12/Python-Algorithm)
+[![wakatime](https://wakatime.com/badge/github/Khailas12/Calculator.svg)](https://wakatime.com/badge/github/Khailas12/Calculator)
 <br>
 <br/>
 <p align="center">
