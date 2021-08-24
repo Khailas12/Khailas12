@@ -93,7 +93,7 @@
 
 
 
-![Lines of code](https://wakatime.com/badge/github/Khailas12/Python-Intermediate.svg)
+[![wakatime](https://wakatime.com/badge/github/Khailas12/Python-Algorithm.svg)](https://wakatime.com/badge/github/Khailas12/Python-Algorithm)
 <br>
 <br/>
 <p align="center">
