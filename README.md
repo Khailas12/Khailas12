@@ -116,9 +116,8 @@ Text       5 mins          ░░░░░░░░░░░░░░░░░�
   </h2>
 </summary>
 
-
 [![wakatime](https://wakatime.com/badge/github/Khailas12/Calculator.svg)](https://wakatime.com/badge/github/Khailas12/Calculator)
-<br>
+
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/f77f57d2-6ee7-4462-94cf-7d57a3a948c5.svg"/>
@@ -127,7 +126,6 @@ Text       5 mins          ░░░░░░░░░░░░░░░░░�
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2c5a481b-8cf5-4389-b3bd-38f218878b93.svg" />
   </a>
 </p>
-
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2cc4cbf5-cbf1-48cc-80f0-6d92a149a50c.svg"/>
