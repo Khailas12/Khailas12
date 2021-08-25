@@ -78,7 +78,11 @@
 [![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Coding Stats
+<h2 align="left">
+    <b>Coding Stats</b>
+  </a>
+</h2>
+
 <!--START_SECTION:waka-->
 ```text
 Python     7 hrs 30 mins   ████████████▒░░░░░░░░░░░░   49.05 % 
