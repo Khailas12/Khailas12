@@ -77,11 +77,12 @@
 
 [![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h2 align="left">
-    <b>Coding Stats</b>
-  </a>
-</h2>
+<summary>
+  <h2 align="left">
+      <b>Coding Stats</b>
+    </a>
+  </h2>
+</summary>
 
 <!--START_SECTION:waka-->
 ```text
@@ -93,11 +94,18 @@ Text       5 mins          ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<br>
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Khailas12/Khailas12/blob/output/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+
 <summary>
+  <h2 align="left">
+    <b>Time Status</b>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Time Status </strong>
+  </h2>
 </summary>
+
 
 [![wakatime](https://wakatime.com/badge/github/Khailas12/Calculator.svg)](https://wakatime.com/badge/github/Khailas12/Calculator)
 <br>
@@ -118,11 +126,6 @@ Text       5 mins          ░░░░░░░░░░░░░░░░░�
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/4716dbbf-ff82-4aec-9ff4-52755c7f85f7.svg" />
   </a>
 </p>
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Khailas12/Khailas12/blob/output/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Khailas12&theme=react-dark&hide_border=true&area=true)
 
