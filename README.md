@@ -116,7 +116,7 @@ HTML       9 mins          ░░░░░░░░░░░░░░░░░�
   </h2>
 </summary>
 
-[![wakatime](https://wakatime.com/badge/github/Khailas12/Calculator.svg)](https://wakatime.com/badge/github/Khailas12/Calculator)
+![wakatime](https://wakatime.com/badge/github/Khailas12/Guess-the-Word.svg)
 
 <p align="center">
   <a>
