@@ -85,8 +85,14 @@
   </h2>
 </summary>
 
-[![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Khailas' github stats](https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&theme=midnight-purple)](https://github.com/Khailas12/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple)](https://github.com/Khailas12/github-readme-stats)
 
+<a href="https://github.com/Khailas12">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&theme=midnight-purple" />
+ </a>
+ <br>
+ <br>
+ 
 <summary>
   <h2 align="left">
       <b>Coding Stats</b>
