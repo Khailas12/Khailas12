@@ -61,13 +61,13 @@
 
 <a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
-
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1631188982/mongodb_oxni2l.png"> </a>
 
 <a href="https://sqlitebrowser.org/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/officel/80/000000/database.png"> </a>
 
 <a href="https://github.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629643172/github_2_njhe9n.svg"> </a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
 
 <a href="https://www.postman.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </a>
 
