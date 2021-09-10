@@ -120,10 +120,10 @@ Markdown   3 mins          ░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/61a64be0-02a1-40e2-bfdf-c90fbcd81705.svg"/>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/67b14b19-00f4-466f-b9a2-ec0eec60cf7c.svg"/>
   </a>
   <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/2c5a481b-8cf5-4389-b3bd-38f218878b93.svg" />
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/0205f5d8-fc14-489c-83f3-0b947b8f0311.svg" />
   </a>
 </p>
 
