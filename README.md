@@ -86,7 +86,8 @@
 </summary>
 
 <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple" width="400cm"/>
-<img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple" alt="ovi" width="400cm"/> <img align="middle" height="165cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Khailas12&theme=midnight-purple" alt="Streak" width="400"/>
+<br>
+ <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple" alt="ovi" width="400cm"/> <img height="165cm" src="https://github-readme-streak-stats.herokuapp.com/?user=Khailas12&theme=midnight-purple" alt="Streak" width="400"/>
 
 <summary>
   <h2 align="left">
