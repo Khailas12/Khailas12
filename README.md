@@ -122,7 +122,7 @@ Other      1 min           ░░░░░░░░░░░░░░░░░�
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/67b14b19-00f4-466f-b9a2-ec0eec60cf7c.svg"/>
   </a>
   <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/0205f5d8-fc14-489c-83f3-0b947b8f0311.svg" />
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/7b08e62f-e81c-41b1-a461-7f7ebda1bca8.svg" />
   </a>
 </p>
 
