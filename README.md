@@ -67,9 +67,13 @@
 
 <a href="https://github.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629643172/github_2_njhe9n.svg"> </a>
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
+<a href="https://mediapipe.dev/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1632095817/default_jvzdps.png"> </a>
+
+<a href="https://opencv.org/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1632095448/OpenCV_Logo_with_text_f81tgh.png"> </a>
 
 <a href="https://www.postman.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
 
 <a href="https://dashboard.heroku.com/login" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> </a>
 
