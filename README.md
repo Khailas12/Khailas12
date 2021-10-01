@@ -87,6 +87,7 @@
   <h2 align="left">
       <b>Github Stats</b>
     </a>
+    <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-2.gif" alt="GIF" width="30px" />
   </h2>
 </summary>
 
@@ -101,8 +102,9 @@
 
 <summary>
   <h2 align="left">
-      <b>Coding Stats</b>
+      <b>Coding Stats</b> 
     </a>
+  <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/code-2.gif" alt="GIF" width="30px" height="25px" />
   </h2>
 </summary>
 
