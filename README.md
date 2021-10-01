@@ -5,7 +5,7 @@
 <h1 align="center">
   </a>𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
     <p>
-        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="GIF" width="40px" />
+        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" width="40px" />
     </p> 
   </a>
 </h1>
