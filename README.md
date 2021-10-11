@@ -118,10 +118,17 @@ Markdown     15 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<summary>
+  <h2 align="left">
+      <b>My Contributions</b> 
+    </a>
+  </h2>
+</summary>
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Khailas12/Khailas12/blob/output/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+
 
 <summary>
   <h2 align="left">
