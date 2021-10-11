@@ -15,7 +15,7 @@
 
 <summary>
   <h2 align="left">
-      <b>I am a Student, Developer and a Learner!</b>
+      <b>I am a Student, Developer and a Tech Enthusiast!</b>
       <img src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629661006/ezgif-2-00ee47fadc29_ngivfm.gif" width="50px" style="max-width:20%;">
     </a>
   </h2>
