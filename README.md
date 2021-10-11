@@ -36,7 +36,7 @@
   <h2 align="left">
     <b>Stay Connected</b>
     <a target="_blank">
-      <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/Handshake.gif" height="25px" style="max-width:100%;">
+      <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/Handshake.gif" height="45px" style="max-width:100%;">
     </a>
   </h2>
 </summary>
