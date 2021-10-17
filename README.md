@@ -10,6 +10,7 @@
   </a>
 </h1>
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=Khailas12&color=blue&style=flat)
 <br>
 
 
