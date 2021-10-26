@@ -74,10 +74,10 @@
 <a href="https://opencv.org/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1632095448/OpenCV_Logo_with_text_f81tgh.png"> </a>
 
 <a href="https://www.postman.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </a>
+<br>
+<br>
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
-<br>
-<br>
 
 <a align='left' href="https://dashboard.heroku.com/login" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> </a>
 
