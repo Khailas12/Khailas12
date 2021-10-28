@@ -27,7 +27,7 @@
 🎓 I am currently pursuing my final year in Bachelor of Computer Application(BCA).
 
 
-⚡ Hobbies: Coding, Listening to Music, Watching Movies and TV Shows.
+⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
 <br>
 <br>
 
