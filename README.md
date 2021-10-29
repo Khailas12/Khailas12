@@ -34,7 +34,7 @@
 
 <summary>
   <h2 align="left">
-    <b>Stay Connected</b>
+    <b>Reach Me</b>
     <a target="_blank">
       <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/Handshake.gif" height="45px" style="max-width:100%;">
     </a>
