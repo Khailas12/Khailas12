@@ -140,14 +140,14 @@ Bash         33 mins         ▒░░░░░░░░░░░░░░░░
   </h2>
 </summary>
 
-![wakatime](https://wakatime.com/badge/github/Khailas12/Guess-the-Word.svg)
+<a href="https://github.com/Khailas12/Django-Bootcamp"><img src="https://wakatime.com/badge/user/27124313-d737-4f80-b278-de0b3cc3d858/project/c7fbfa2f-f5ae-4a56-b7ee-f232fefe2223.svg" alt="wakatime"></a>
 
 <p align="center">
   <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/a2901638-ba2d-4a65-8ac7-e6df2bcc6c8e.svg"/>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/d5f847e0-1a4b-4c82-a0da-db0287cfa5b3.svg"/>
   </a>
   <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/7b08e62f-e81c-41b1-a461-7f7ebda1bca8.svg" />
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/18b5dfa3-7585-43fa-a1f8-083082539cc3.svg" />
   </a>
 </p>
 
