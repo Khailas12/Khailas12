@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">
-  </a>𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  </a>&lt;𝙷𝚎𝚕𝚕𝚘 𝙲𝚘𝚍𝚎𝚛𝚜/&gt;!
     <p>
         I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" width="40px" />
     </p> 
