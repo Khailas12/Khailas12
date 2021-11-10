@@ -54,33 +54,18 @@
   </h2>
 </summary>
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" height ="42px" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/django_logo.png"> </a>
-
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629639614/SeekPng.com_flask-png_8753366_hgzd4p.png"> </a>
-
-<a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1631188982/mongodb_oxni2l.png"> </a>
-
-<a href="https://sqlitebrowser.org/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/officel/80/000000/database.png"> </a>
-
-<a href="https://github.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629643172/github_2_njhe9n.svg"> </a>
-
-<a href="https://mediapipe.dev/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1632095817/default_jvzdps.png"> </a>
-
-<a href="https://opencv.org/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1632095448/OpenCV_Logo_with_text_f81tgh.png"> </a>
-
-<a href="https://www.postman.com/" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> </a>
-<br>
-<br>
-
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" height ="42px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> </a>
-
-<a align='left' href="https://dashboard.heroku.com/login" target="_blank"> <img align="left" height ="42px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> </a>
-
-<a href="https://uptimerobot.com/" target="_blank"> <img align="left" height ="42px" src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629639380/pngaaa.com-4965957_sqkika.png"> </a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> </a>
+<a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> </a>
+<a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
+<a align='left' href="https://dashboard.heroku.com/login" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> </a>
 <br/>
 <br/>
 
