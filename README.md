@@ -40,7 +40,8 @@
 </summary>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas-r-801093200/) [![Mail Badge](https://img.shields.io/badge/-Khailas303@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Khailas12) [![Dev Badge](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/khailas12)   
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas-r-801093200/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Khailas12) [![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+)](https://dev.to/khailas12)   
 <br>
 
 <a target="_blank"><img align="left" height="150" width="150" alt="𝙶𝙸𝙵" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github.gif"></a>
