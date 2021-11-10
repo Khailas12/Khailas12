@@ -54,7 +54,7 @@
   </h2>
 </summary>
 
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-4B275F?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> </a>
