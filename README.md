@@ -21,7 +21,7 @@
   </h2>
 </summary>
 
-🎓 I am currently pursuing my final year  Bachelor of Computer Application (BCA). 
+🎓 Currently pursuing my final year  Bachelor of Computer Application (BCA). 
   
 ⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
   
