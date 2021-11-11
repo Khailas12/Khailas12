@@ -23,10 +23,9 @@
 
 🎓 I am currently pursuing my final year in Bachelor of Computer Application(BCA). 
   
-✨ Trying to experiment new things as long as it takes.
-
 ⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
-<br>
+  
+✨ Trying to experiment new things as long as it takes.
 <br>
 
 
@@ -69,8 +68,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-3A33D1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
 <a href="https://www.office.com/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
-<br/>
-<br/>
 
 <br>
 <summary>
