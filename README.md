@@ -25,9 +25,8 @@
   
 ⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
   
-✨ Trying to experiment and learn new things as long as it takes.
-<br>
-
+✨ Trying to learn and experiment new things as long as it takes.
+ <br>
 
 <summary>
   <h2 align="left">
