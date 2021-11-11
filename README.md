@@ -15,17 +15,17 @@
 
 <summary>
   <h2 align="left">
-      <b>I am a Student, Developer and a Tech Enthusiast!</b>
+      <b>I am a Student, Developer, and a Tech Enthusiast!</b>
       <img src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629661006/ezgif-2-00ee47fadc29_ngivfm.gif" width="50px" style="max-width:20%;">
     </a>
   </h2>
 </summary>
 
-🎓 I am currently pursuing my final year in Bachelor of Computer Application(BCA). 
+🎓 I am currently pursuing my final year  Bachelor of Computer Application (BCA). 
   
 ⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
   
-✨ Trying to experiment new things as long as it takes.
+✨ Trying to experiment and learn new things as long as it takes.
 <br>
 
 
