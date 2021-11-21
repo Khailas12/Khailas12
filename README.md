@@ -42,12 +42,12 @@
 )](https://dev.to/khailas12)   
 <br>
 
-<summary>
-  <h2 align="left">
-      <b>Languages and Tools💻</b>
-    </a>
-  </h2>
-</summary>
+
+<h2 align="center">
+    <b>Languages and Tools💻</b>
+  </a>
+</h2>
+
 
 <a target="_blank"><img align="left" height="160" width="190" alt="𝙶𝙸𝙵" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-1.gif"></a>
 
