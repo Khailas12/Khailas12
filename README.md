@@ -51,7 +51,7 @@
 </h2>
 
 
-<a target="_blank"><img align="left" height="160" width="190" alt="𝙶𝙸𝙵" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-1.gif"></a>|
+<a target="_blank"><img align="left" height="160" width="190" alt="𝙶𝙸𝙵" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-1.gif"></a>
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-4B275F?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> </a>
