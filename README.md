@@ -23,7 +23,7 @@
 
 💻 I'm working on with integrated Django and NodeJs Technology
 
-🎓 I'm Currently pursuing my final year - Bachelor of Computer Application (BCA).
+🎓 I'm currently pursuing my Final Year - Bachelor of Computer Application (BCA).
   
 ⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
   
