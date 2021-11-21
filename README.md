@@ -9,8 +9,6 @@
     </p> 
   </a>
 </h1>
-<br>
-<br>
   
 <a href="https://github.com/Khailas12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Creativity+is+just+connecting+things+-Steve+Jobs;&width=600&height=50"></a>
 <summary>
