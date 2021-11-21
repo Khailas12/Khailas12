@@ -15,20 +15,20 @@
 
 <summary>
   <h2 align="left">
-      <b>I am a Student, Developer, and a Tech Enthusiast!</b>
+      <b>About Me</b>
       <img src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629661006/ezgif-2-00ee47fadc29_ngivfm.gif" width="50px" style="max-width:20%;">
     </a>
   </h2>
 </summary>
 
-💻 I'm working on with integrated Django and NodeJs Technology
-
-🎓 I'm currently pursuing my Final Year - Bachelor of Computer Application (BCA).
+💻 I'm a Self Taught Programmer who's currently working on with integrated Django and NodeJs Technology.
+  
+🎓 A Final Year student pursuing Bachelor of Computer Application (BCA).
   
 ⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
   
-✨ Trying to learn and experiment new things perpetually.
- <br>
+✨ Trying to learn and experiment new things to enhance my Tech Enthusiasm at its best.
+<br>
 
 <summary>
   <h2 align="left">
