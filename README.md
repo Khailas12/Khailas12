@@ -64,7 +64,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/GNU%20Bash-1A2C34?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-A81D33?style=for-the-badge&logo=OpenCV&logoColor=white"> </a>
 <a href="https://dashboard.heroku.com/login" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-EF4223?style=for-the-badge&logo=Postman&logoColor=white"> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-3A33D1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
 <a href="https://www.office.com/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
