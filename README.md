@@ -42,15 +42,14 @@
 )](https://dev.to/khailas12)   
 <br>
 
-<a target="_blank"><img align="left" height="150" width="150" alt="𝙶𝙸𝙵" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github.gif"></a>
-
-
 <summary>
   <h2 align="left">
       <b>Languages and Tools💻</b>
     </a>
   </h2>
 </summary>
+
+<a target="_blank"><img align="right" height="170" width="160" alt="𝙶𝙸𝙵" src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github.gif"></a>
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-4B275F?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> </a>
@@ -69,7 +68,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-3A33D1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
 <br>
-<br>
+
 <summary>
   <h2 align="left">
       <b>Github Stats</b>
