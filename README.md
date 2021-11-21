@@ -9,9 +9,7 @@
     </p> 
   </a>
 </h1>
-
-<br>
-
+<a href="https://github.com/Khailas12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Your+time+is+limited,+so+don’t+waste+it;living+someone+else's+life++-Steve+Jobs;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 <summary>
   <h2 align="left">
@@ -21,11 +19,11 @@
   </h2>
 </summary>
 
-💻 I'm a Self Taught Programmer who's currently working on with integrated Django and NodeJs Technology.
+💻 I am a self-taught programmer who is currently working on the integration of Django and NodeJs.
   
-🎓 A Final Year student pursuing Bachelor of Computer Application (BCA).
+🎓 A 21 year old undergrad Computer Science student.
   
-⚡ Loves Coding, Listening to Music, Watching Movies and TV Shows.
+⚡ Loves Programming, Listening to Music, Watching Movies and TV Shows.
   
 ✨ Trying to learn and experiment new things to enhance my Tech Enthusiasm at its best.
 <br>
