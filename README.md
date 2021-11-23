@@ -88,7 +88,7 @@
 <br>
 </p>
 <a>
-  <img align="right" width='450' src="https://metrics.lecoq.io/Khailas12?template=classic&config.timezone=India%2FBangalore"/>
+  <img align="right" width='430' src="https://metrics.lecoq.io/Khailas12?template=classic&config.timezone=India%2FBangalore"/>
 </a>
 
 <p align='left'>
