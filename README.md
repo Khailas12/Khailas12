@@ -93,10 +93,10 @@
 
 <p align='left'>
  <br>
- <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
+ <img height="165cm" width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
   <br>
   <br>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
+  <img height="165cm" width='400' src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
 </p>
 
 <summary>
