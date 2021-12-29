@@ -115,17 +115,6 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<summary>
-  <h2 align="left">
-      <b>My Contributions</b> 
-    </a>
-  </h2>
-</summary>
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Khailas12/Khailas12/blob/output/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-
 
 <summary>
   <h2 align="left">
@@ -144,6 +133,17 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/18b5dfa3-7585-43fa-a1f8-083082539cc3.svg" />
   </a>
 </p>
+
+<summary>
+  <h2 align="left">
+      <b>My Contributions</b> 
+    </a>
+  </h2>
+</summary>
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Khailas12/Khailas12/blob/output/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Khailas12&theme=react-dark&hide_border=true&area=true)
 
