@@ -24,8 +24,6 @@
 🎓 A 21 year old undergrad Computer Science student.
   
 ⚡ Loves Programming, Listening to Music, Watching Movies and TV Shows.
-
-💰 I do NFTs on <a href="https://opensea.io/khailas12"><b>Opensea<b><a target="_blank">
   
 ✨ Trying to learn and experiment new things to enhance my Tech Enthusiasm at its best.
 <br>
