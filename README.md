@@ -115,8 +115,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 29 hrs 58 mins
-
 C        19 hrs 29 mins  ████████████████▒░░░░░░░░   65.04 % 
 Python   8 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 HTML     2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
