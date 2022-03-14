@@ -115,11 +115,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     40 mins         ██████████████▒░░░░░░░░░░   57.70 %
-Python       15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-HTML         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Text         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
