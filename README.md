@@ -80,7 +80,7 @@
   <h2 align="left">
       <b>Github Stats</b>
     </a>
-    <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-2.gif" alt="GIF"  height="45px" style="max-width:100%;" />
+    <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-2.gif" alt="GIF" height="35px" style="max-width:100%;" />
   </h2>
 </summary>
 
