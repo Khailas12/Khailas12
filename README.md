@@ -5,7 +5,7 @@
 <h1 align="center">
   </a>&lt;𝙷𝚎𝚕𝚕𝚘 𝙲𝚘𝚍𝚎𝚛𝚜/&gt;!
     <p>
-        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" width="40px" />
+        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" height="45px" style="max-width:100%;" />
     </p> 
   </a>
 </h1>
@@ -14,7 +14,7 @@
 <summary>
   <h2 align="left">
       <b>About Me</b>
-      <img src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629661006/ezgif-2-00ee47fadc29_ngivfm.gif" width="50px" style="max-width:20%;">
+      <img src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629661006/ezgif-2-00ee47fadc29_ngivfm.gif" height="45px" style="max-width:100%;">
     </a>
   </h2>
 </summary>
@@ -80,7 +80,7 @@
   <h2 align="left">
       <b>Github Stats</b>
     </a>
-    <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-2.gif" alt="GIF" width="30px" />
+    <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/github-2.gif" alt="GIF"  height="45px" style="max-width:100%;" />
   </h2>
 </summary>
 
@@ -106,7 +106,7 @@
 
 <summary>
   <h2 align="left">
-      <b>Coding Stats</b> 
+  <b>Coding Stats</b> 
     </a>
   <img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/code-2.gif" alt="GIF" width="30px" height="25px" />
   </h2>
