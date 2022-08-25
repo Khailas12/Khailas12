@@ -92,17 +92,9 @@
   </a>
 <br>
 </p>
-<a>
-  <img align="right" width='450' src="https://metrics.lecoq.io/Khailas12?template=classic&repositories.forks=true&base.metadata=0&config.timezone=Asia%2FCalcutta&config.twemoji=true"/>
-</a>
 
-<p align='left'>
- <br>
- <img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
-  <br>
-  <br>
-  <img height="165cm" width='355' src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
-</p>
+<img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
+<img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
 
 <summary>
   <h2 align="left">
