@@ -92,8 +92,13 @@
 <br>
 </p>
 
-<img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
-<img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
+<p align="center">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true"/>
+  </a>
+  
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
 
 <summary>
   <h2 align="left">
