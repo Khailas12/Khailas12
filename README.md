@@ -124,7 +124,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   </h2>
 </summary>
 
-<a href="https://github.com/Khailas12/Django-Bootcamp"><img src="https://wakatime.com/badge/user/27124313-d737-4f80-b278-de0b3cc3d858/project/c7fbfa2f-f5ae-4a56-b7ee-f232fefe2223.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@27124313-d737-4f80-b278-de0b3cc3d858"><img src="https://wakatime.com/badge/user/27124313-d737-4f80-b278-de0b3cc3d858.svg" alt="Total time coded since Aug 22 2021" /></a>
 
 <p align="center">
   <a>
