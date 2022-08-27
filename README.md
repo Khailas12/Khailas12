@@ -92,12 +92,9 @@
 <br>
 </p>
 
-<p align="left">
-    <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true"/>
-  </a>
-  <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
+<img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
+<img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
+
 
 <summary>
   <h2 align="left">
