@@ -19,10 +19,8 @@
   </h2>
 </summary>
 
-💻 I am a self-taught programmer who is currently working on the integration of Django and NodeJs.
-  
-🎓 A 21 year old undergrad Computer Science student.
-  
+💻 I am a 21y self-taught programmer who is currently working on the integration of Django and NodeJs.
+
 ⚡ Loves Programming, Listening to Music, Watching Movies and TV Shows.
   
 ✨ Trying to learn and experiment new things to enhance my Tech Enthusiasm at its best.
