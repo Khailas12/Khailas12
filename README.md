@@ -19,7 +19,7 @@
   </h2>
 </summary>
 
-💻 I am a 21y self-taught programmer who is currently working on the integration of Django and NodeJs.
+💻 I am a self-taught programmer who is prominantly working on the Python's Django Framework.
 
 ⚡ Loves Programming, Listening to Music, Watching Movies and TV Shows.
   
