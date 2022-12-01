@@ -19,7 +19,7 @@
   </h2>
 </summary>
 
-💻 I am a self-taught programmer who is prominantly working on the Python's Django Framework.
+💻 I am a self-taught programmer who is employed as a Software Engineer at <a href='https://konsultera.in/'>Konsultera Solutions Pvt. Ltd.<a/>
 
 ⚡ Loves Programming, Listening to Music, Watching Movies and TV Shows.
   
