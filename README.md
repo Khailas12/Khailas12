@@ -36,7 +36,7 @@
 </summary>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas12/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Khailas12) [![Dev Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@khailas12)   
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas12/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Wakatime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@khailas12)   
 <br>
 
 
