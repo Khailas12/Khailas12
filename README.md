@@ -105,9 +105,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python              6 hrs 9 mins    █████████████████████████   99.42 %
-Debian Sourcelist   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Bash                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python   5 hrs 47 mins   █████████████████████████   99.78 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
