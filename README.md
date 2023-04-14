@@ -105,12 +105,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 58 mins   ████████████████▓░░░░░░░░   67.11 %
-HTML         1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
-Python       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
