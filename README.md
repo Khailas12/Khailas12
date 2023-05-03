@@ -105,8 +105,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   16 mins         ██████████████████▓░░░░░░   74.51 %
-Python       5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
