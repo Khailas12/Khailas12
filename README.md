@@ -144,6 +144,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Khailas12/Khailas12/blob/output/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Khailas12&bg_color=110722&color=f4f0ff&line=1b7944&point=00fa85&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khailas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khailas12&theme=react-dark)](https://github.com/Khailas12/github-readme-activity-graph)
+
 
 </details>
