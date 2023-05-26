@@ -125,10 +125,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://wakatime.com/@27124313-d737-4f80-b278-de0b3cc3d858"><img src="https://wakatime.com/badge/user/27124313-d737-4f80-b278-de0b3cc3d858.svg" alt="Total time coded since Aug 22 2021" /></a>
 
 <p align="center">
-  <a>
+  <a href="https://wakatime.com/@27124313-d737-4f80-b278-de0b3cc3d858">
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/d5f847e0-1a4b-4c82-a0da-db0287cfa5b3.svg"/>
   </a>
-  <a>
+  <a href="https://wakatime.com/@27124313-d737-4f80-b278-de0b3cc3d858">
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@27124313-d737-4f80-b278-de0b3cc3d858/18b5dfa3-7585-43fa-a1f8-083082539cc3.svg" />
   </a>
 </p>
