@@ -19,12 +19,7 @@
   </h2>
 </summary>
 
-💻 I am a self-taught programmer who is employed as a Software Engineer.
-
-⚡ Loves Programming, Listening to Music, Watching Movies and TV Shows.
-  
-✨ Trying to learn and experiment new things to enhance my Tech Enthusiasm at its best.
-<br>
+💻 I am a self-taught programmer and a Musicophile
 
 <summary>
   <h2 align="left">
