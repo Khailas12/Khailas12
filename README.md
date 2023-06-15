@@ -9,17 +9,6 @@
     </p> 
   </a>
 </h1>
-  
-<img src="https://readme-typing-svg.herokuapp.com?lines=Creativity+is+just+connecting+things+-Steve+Jobs;&width=550&height=50"></a>
-<summary>
-  <h2 align="left">
-      <b>About Me</b>
-      <img src="https://res.cloudinary.com/dzzjp6xlv/image/upload/v1629661006/ezgif-2-00ee47fadc29_ngivfm.gif" height="45px" style="max-width:100%;">
-    </a>
-  </h2>
-</summary>
-
-💻 I am a self-taught programmer and a Musicophile
 
 <summary>
   <h2 align="left">
