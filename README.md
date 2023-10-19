@@ -89,10 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 24 mins   ████████████████████▓░░░░   83.22 %
-Python       1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
