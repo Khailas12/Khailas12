@@ -89,10 +89,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         0 secs          ████████████▒░░░░░░░░░░░░   48.97 %
-Python       0 secs          █████████░░░░░░░░░░░░░░░░   36.09 %
-TypeScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+TypeScript   0 secs          ███████████████████░░░░░░   75.78 %
+JavaScript   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+Python       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
