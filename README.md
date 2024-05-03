@@ -111,7 +111,7 @@ const khailas = {
 <img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> 
 <img height="165cm" width='350' src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/>
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=khailas12&theme=darkhub&no-frame=true&row=1&&margin-w=20&no-bg=true)
 <summary>
   <h2 align="left">
   <b>Coding Stats</b> 
@@ -183,3 +183,4 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="display: inline-block;">
 </div>
+
