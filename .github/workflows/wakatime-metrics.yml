@@ -1,8 +1,10 @@
 name: WakaTime Metrics
 
 on:
-  push: # Trigger the workflow on push events
-
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+    
 jobs:
   wakatime_job:
     runs-on: ubuntu-latest
