@@ -1,0 +1,30 @@
+name: Metrics Achievenents
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+    
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: SVG/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
