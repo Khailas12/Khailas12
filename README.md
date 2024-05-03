@@ -20,7 +20,7 @@
 </summary>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas12/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Wakatime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@khailas12) [![Metrics Badge](https://img.shields.io/badge/Metrics-9146FF?style=for-the-badge&logoColor=white)]('https://metrics.lecoq.io/insights/khailas12')
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas12/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Wakatime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@khailas12) [![Metrics Badge](https://img.shields.io/badge/📊Metrics-9146FF?style=for-the-badge&logoColor=white)]('https://metrics.lecoq.io/insights/khailas12')
 <br>
 
 
