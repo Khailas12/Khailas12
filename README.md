@@ -120,9 +120,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <p align="left">
   <h4 align="left"><code>📊𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
-
 <div align="center">
-  <img src="SVG/metrics.plugin.wakatime.svg" style="display: inline-block;" width="100%">
   <img src="SVG/metrics.plugin.achievements.compact.svg" style="display: inline-block;" width="100%">
 </div>
 
