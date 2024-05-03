@@ -38,11 +38,12 @@
 <a href="https://angular.io/" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
 <a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
+<a href="https://dbeaver.io/" target="_blank"> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> </a>
+<a href="https://arangodb.com/" target="_blank"> <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white"> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-34A853?style=for-the-badge&logo=mongodb&logoColor=white"> </a>
 <a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-D24939?style=for-the-badge&logo=git&logoColor=white"> </a>
@@ -53,6 +54,10 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-EF4223?style=for-the-badge&logo=Postman&logoColor=white"> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-3A33D1?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
 <a href="https://www.office.com/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> </a>
+<a href="https://www.atlassian.com/software/jira/" target="_blank"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> </a>
+<a href="https://www.microsoft.com/software-download/windows11/" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> </a>
 <br>
 <br>
 
