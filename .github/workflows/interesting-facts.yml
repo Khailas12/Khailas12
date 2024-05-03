@@ -1,0 +1,27 @@
+name: Metrics Facts
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+    
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: SVG/metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
