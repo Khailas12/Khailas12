@@ -117,11 +117,16 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
   </a>
 </p>
 
-<p align="left">
-  <h4 align="left"><code>📊𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
+<summary>
+  <h2 align="left">
+      <b>📊Metrics</b> 
+    </a>
+  </h2>
+</summary>
 <div align="center">
   <img src="SVG/metrics.plugin.achievements.compact.svg" style="display: inline-block;" width="100%">
+  <img src="SVG/metrics.plugin.isocalendar.fullyear.svg" style="display: inline-block;" width="100%">
+
 </div>
 
 
