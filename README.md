@@ -13,7 +13,10 @@
         I am <a href="https://metrics.lecoq.io/insights/khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" height="45px" style="max-width:100%;" />
     </p> 
   </a>
+  <br>
+  <br>
 </h1>
+
 <summary>
   <h2 align="left">
     <b>About Me 😄</b>
