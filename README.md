@@ -5,7 +5,7 @@
 <h1 align="center">
   </a>&lt;𝙷𝚎𝚕𝚕𝚘 𝙲𝚘𝚍𝚎𝚛𝚜/&gt;!
     <p>
-        I am <a href="https://github.com/Khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" height="45px" style="max-width:100%;" />
+        I am <a href="https://metrics.lecoq.io/insights/khailas12"><b>Khailas <b><a target="_blank"><img src="https://github.com/Khailas12/Khailas12/blob/main/PNG/wave.gif" alt="GIF" height="45px" style="max-width:100%;" />
     </p> 
   </a>
 </h1>
@@ -20,7 +20,7 @@
 </summary>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas12/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Wakatime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@khailas12)   
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khailas12/) [![Mail Badge](https://img.shields.io/badge/-khailas303@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/rfc822msgid%3Akhailas303%40gmail.com) [![Wakatime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@khailas12) [![Metrics Badge](https://img.shields.io/badge/Metrics-9146FF?style=for-the-badge&logoColor=white)]('https://metrics.lecoq.io/insights/khailas12')
 <br>
 
 
