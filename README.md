@@ -121,10 +121,12 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
   <h4 align="left"><code>📊𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
-<p align="center">
-  <img align="left" src="SVG/metrics.plugin.wakatime.svg"/>
-  <img align="right" src="SVG/metrics.plugin.achievements.compact.svg"/>
-</p>
+<div style="display: flex;">
+  <img style="flex: 1;" src="SVG/metrics.plugin.wakatime.svg" />
+  <img style="flex: 1;" src="SVG/metrics.plugin.achievements.compact.svg" />
+</div>
+
+
 
 <summary>
   <h2 align="left">
