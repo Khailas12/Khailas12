@@ -16,10 +16,7 @@
 </h1>
 <summary>
   <h2 align="left">
-    <b>About Me</b>
-    <a target="_blank">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.giff" height="45px" style="max-width:100%;">
-    </a>
+    <b>About Me 😄</b>
   </h2>
 </summary>
 
