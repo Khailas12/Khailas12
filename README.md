@@ -117,6 +117,14 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
   </a>
 </p>
 
+<p align="center">
+  <h4 align="center"><code>📊 Wakatime 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
+
+<p align="center">
+  <img src="SVG/metrics.plugin.wakatime.svg"/>
+</p>
+
 <summary>
   <h2 align="left">
       <b>My Contributions</b> 
