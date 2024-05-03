@@ -118,7 +118,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <h4 align="center"><code>📊 Wakatime 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+  <h4 align="left"><code>📊 Wakatime 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
 <p align="center">
