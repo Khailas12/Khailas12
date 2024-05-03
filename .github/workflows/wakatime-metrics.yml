@@ -14,7 +14,7 @@ jobs:
     - name: WakaTime Metrics
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.wakatime.svg
+        filename: SVG/metrics.plugin.wakatime.svg
         token: NOT_NEEDED
         base: ""
         plugin_wakatime: yes
