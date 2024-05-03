@@ -1,9 +1,22 @@
-name: WakaTime
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.wakatime.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_wakatime: yes
-  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-  plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+name: WakaTime Metrics
+
+on:
+  push: # Trigger the workflow on push events
+
+jobs:
+  wakatime_job:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: WakaTime Metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.wakatime.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_wakatime: yes
+        plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+        plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
