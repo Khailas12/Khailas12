@@ -123,9 +123,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <p align="left">
   <img align="left" src="SVG/metrics.plugin.wakatime.svg"/>
-</p>
 
-<p align="center">
   <img align="center" src="SVG/metrics.plugin.achievements.compact.svg"/>
 </p>
 
