@@ -25,15 +25,15 @@
 
 ```javascript
 const khailas = {
-  role: "Software Engineer",
+  personalBio: "I am a self-taught developer with a fervent passion for technology, working as a software engineer.",
   currentlyWorkingOn: [
     "Developing applications with AngularJs and Django REST",
     "Mastering database design principles with Postgresql",
-    "Exploring NoSQL databases like Arango DB"
+    "Exploring the functionalities of ArangoDB, a NoSQL database."
   ],
   architecture: ["Microservices", "RESTful APIs", "MVC", "ORM", "Client-Server"],
   askMeAbout: ["Web Development", "Technology", "Movies & TV Shows", "Music"],
-  hobbies: ["Playing Guitar", "Listening and Creating rhythmic music", "Journaling"]
+  hobbies: ["Playing Guitar", "Listening and Creating rhythmic music", "Journaling"],
   funFact: "Programming: where forgetting a semicolon turns a masterpiece into a mess.",
   favoriteQuote: "The only way to do great work is to love what you do. - Steve Jobs"
 };
