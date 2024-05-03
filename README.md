@@ -14,6 +14,30 @@
     </p> 
   </a>
 </h1>
+<summary>
+  <h2 align="left">
+    <b>About Me</b>
+    <a target="_blank">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.giff" height="45px" style="max-width:100%;">
+    </a>
+  </h2>
+</summary>
+
+```javascript
+const khailas = {
+  role: "Software Engineer",
+  currentlyWorkingOn: [
+    "Developing applications with AngularJs and Django REST",
+    "Mastering database design principles with Postgresql",
+    "Exploring NoSQL databases like Arango DB"
+  ],
+  architecture: ["Microservices", "RESTful APIs", "MVC", "ORM", "Client-Server"],
+  askMeAbout: ["Web Development", "Technology", "Movies & TV Shows", "Music"],
+  hobbies: ["Playing Guitar", "Listening and Creating rhythmic music", "Journaling"]
+  funFact: "Programming: where forgetting a semicolon turns a masterpiece into a mess.",
+  favoriteQuote: "The only way to do great work is to love what you do. - Steve Jobs"
+};
+```
 
 <summary>
   <h2 align="left">
@@ -156,5 +180,6 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 [![Khailas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khailas12&theme=react-dark)](https://github.com/Khailas12/github-readme-activity-graph)
 
-
-</details>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="display: inline-block;">
+</div>
