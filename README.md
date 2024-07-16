@@ -123,11 +123,11 @@ const khailas = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python          3 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 %
-HTML            2 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-TypeScript      2 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-SCSS            50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-JavaScript      50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Python          3 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.12 %
+HTML            2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+TypeScript      2 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+SCSS            50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+JavaScript      50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
 
 <!--END_SECTION:waka-->
