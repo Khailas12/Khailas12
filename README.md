@@ -25,17 +25,19 @@
 
 ```javascript
 const khailas = {
-    personalBio: "I am a self-taught developer with a fervent passion for technology, working as a software engineer.",
+    personalBio: "I am a self-taught developer with a fervent passion for technology, working as a Software Engineer.",
     currentlyWorkingOn: [
-        "Developing applications with AngularJs and Django REST",
-        "Mastering database design principles with Postgresql",
-        "Exploring the functionalities of ArangoDB, a NoSQL database."
+        "Crafting scalable applications using FastAPI",
+        "Building serverless solutions with Azure Functions",
+        "Leveraging Azure cloud services for scalable infrastructure"
+        "Mastering advanced database schema design with PostgreSQL",
+        "Delving into the capabilities of ArangoDB, a multi-model NoSQL database",
     ],
+    previouslyWorkedOn: "Building RESTful APIs using Django REST Framework",
     architecture: ["Microservices", "RESTful APIs", "MVC", "ORM", "Client-Server"],
     askMeAbout: ["Web Development", "Technology", "Movies & TV Shows", "Music"],
     hobbies: ["Playing Guitar", "Listening and Creating rhythmic music", "Journaling"],
     funFact: "Programming: where forgetting a semicolon turns a masterpiece into a mess.",
-    favoriteQuote: "The only way to do great work is to love what you do. - Steve Jobs"
 };
 ```
 
