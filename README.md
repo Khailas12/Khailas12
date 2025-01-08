@@ -73,12 +73,12 @@ const khailas = {
 <a href="https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview/" target="_blank"> <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"> </a>
 <a href="https://swagger.io/" target="_blank"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-EF4223?style=for-the-badge&logo=Postman&logoColor=white"> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=postgresql&logoColor=white"> </a>
 <a href="https://dbeaver.io/" target="_blank"> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> </a>
 <a href="https://arangodb.com/" target="_blank"> <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white"> </a>
 <a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
 <a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-D24939?style=for-the-badge&logo=git&logoColor=white"> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
