@@ -125,8 +125,8 @@ const khailas = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 27 mins    █████████████████████▒░░░   84.91 %
-Bash     15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Python   2 hrs 6 mins    ██████████████████████░░░   87.85 %
+Bash     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
 ```
 
 <!--END_SECTION:waka-->
