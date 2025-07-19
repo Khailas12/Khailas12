@@ -25,17 +25,23 @@
 
 ```javascript
 const khailas = {
-    personalBio: "I am a self-taught developer with a fervent passion for technology, working as a Software Engineer.",
+    personalBio: "I am a self-taught software engineer passionate about crafting scalable and efficient backend solutions.",
     currentlyWorkingOn: [
-        "Crafting scalable applications using FastAPI",
-        "Building serverless solutions with Azure Functions",
-        "Leveraging Azure cloud services for scalable infrastructure"
-        "Mastering advanced database schema design with PostgreSQL",
+        "Developing high-performance applications using FastAPI with async/await patterns",
+        "Building serverless cloud solutions with Azure Functions and Azure Cosmos DB",
+        "Leveraging Azure cloud services for scalable infrastructure",
+        "Mastering advanced database schema design and optimization with PostgreSQL",
         "Delving into the capabilities of ArangoDB, a multi-model NoSQL database",
     ],
+    technologies: {
+        backend: ["FastAPI", "Django REST Framework", "Python"],
+        cloud: ["Azure Functions", "Azure App Service"],
+        databases: ["PostgreSQL", "Azure Cosmos DB"],
+        tools: ["Docker", "Azure DevOps", "Git"]
+    },
     previouslyWorkedOn: "Building RESTful APIs using Django REST Framework",
-    architecture: ["Microservices", "RESTful APIs", "MVC", "ORM", "Client-Server"],
-    askMeAbout: ["Web Development", "Technology", "Movies & TV Shows", "Music"],
+    architecture: ["Microservices", "RESTful APIs", "Serverless", "Cloud-Native"],
+    askMeAbout: ["Backend Development", "Azure Cloud Solutions", "API Design", "Database Architecture"],
     hobbies: ["Playing Guitar", "Listening and Creating rhythmic music", "Journaling"],
     funFact: "Programming: where forgetting a semicolon turns a masterpiece into a mess.",
 };
