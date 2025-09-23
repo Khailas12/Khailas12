@@ -168,8 +168,6 @@ Bash         2 mins          ░░░░░░░░░░░░░░░░░
 </summary>
 <div align="center">
   <img src="SVG/metrics.plugin.achievements.compact.svg" style="display: inline-block;" width="100%">
-  <img src="SVG/metrics.plugin.isocalendar.fullyear.svg" style="display: inline-block;" width="100%">
-
 </div>
 
 
@@ -192,4 +190,5 @@ Bash         2 mins          ░░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="display: inline-block;">
 </div>
+
 
