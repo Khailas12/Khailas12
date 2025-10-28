@@ -132,7 +132,9 @@ const khailas = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 20 mins    ██████████████████████▒░░   88.68 %
+Docker   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
