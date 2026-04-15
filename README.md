@@ -132,11 +132,11 @@ const khailas = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python       31 hrs 56 mins        █████████████████▓░░░░░░░   70.46 %
-Other        9 hrs 21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-TypeScript   2 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Markdown     54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-YAML         38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Python       29 hrs 38 mins        █████████████████▒░░░░░░░   69.36 %
+Other        9 hrs 30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+TypeScript   2 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+YAML         1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Git Config   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
